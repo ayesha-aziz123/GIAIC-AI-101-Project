@@ -38,9 +38,9 @@ This repository showcases a collection of Python projects developed as part of t
    [🔗 Google Colab](https://colab.research.google.com/drive/1Q8P9ta-4aE6KetONdyLPuuCqu-D9gldT?usp=sharing)  
    *A web app that calculates BMI and provides personalized feedback.*  
 
-9. **Expense Tracker with Streamlit**  
+9. **Python Website in 15 minutes with Streamlit**  
    [🔗 Google Colab](https://colab.research.google.com/drive/1cvUSpAlB8QZ17O2S0e8r2MvVinojbV28?usp=sharing)  
-   *A simple expense tracker to help manage and visualize your expenses.*  
+   *A simple Python Website in 15minutes with streamllit.*  
 
 ---
 
@@ -48,7 +48,18 @@ This repository showcases a collection of Python projects developed as part of t
 
 1. Open the provided Google Colab links.  
 2. Click on **Runtime** > **Run all**.  
-3. To run Streamlit apps locally, use the following commands:  
+3. To run Streamlit apps locally, use the following commands:
+   
    ```bash
    pip install -r requirements.txt
    streamlit run app.py
+
+
+## 🤝 Contributing  
+We welcome contributions! If you're planning major changes, please open an issue first to discuss your ideas.  
+
+## 📬 Contact  
+For any queries or feedback, feel free to reach out via GitHub.  
+
+## 🚀 Built with passion as part of the GIAIC AI course.  
+
